@@ -2,7 +2,7 @@
   "name": "sw-cache-helper",
   "version": "0.0.1",
   "description": "ServiceWorker helper script that deals with common functions related to caches.",
-  "main": "index.js",
+  "main": "lib/cachehelper.js",
   "scripts": {
     "test": "gulp"
   },
